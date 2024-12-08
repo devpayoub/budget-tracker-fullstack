@@ -1,0 +1,8 @@
+nav ul li a {
+    transition: all 0.3s;
+  }
+  nav ul li a:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  

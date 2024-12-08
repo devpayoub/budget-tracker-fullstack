@@ -1,0 +1,7 @@
+{
+    "mongodbURL": "mongodb://127.0.0.1:27017/Budget",
+    "jwtSecret": "jwtSercret",
+    "tokenExpire": "2592000" ,
+    "sessionSecret": "yourSuperSecureRandomKeyHere"
+
+}
