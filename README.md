@@ -1,1 +1,1 @@
-# expense-tracker-fullstack
+# budget-tracker-fullstack
